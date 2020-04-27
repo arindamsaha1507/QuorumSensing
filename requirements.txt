@@ -8,7 +8,7 @@ astroid==2.1.0
 astropy==3.0.4
 async-generator==1.10
 atomicwrites==1.2.1
-attrs==18.2.0
+attrs==19.3.0
 Automat==0.7.0
 Babel==2.6.0
 backcall==0.1.0
@@ -18,7 +18,7 @@ beautifulsoup4==4.6.3
 bitarray==0.8.3
 bkcharts==0.2
 blaze==0.11.3
-bleach==3.0.2
+bleach==3.1.4
 bokeh==0.13.0
 boto==2.49.0
 Bottleneck==1.2.1
@@ -72,10 +72,11 @@ itsdangerous==1.1.0
 jdcal==1.4
 jedi==0.13.2
 jeepney==0.4
-Jinja2==2.10
+Jinja2==2.11.2
 jitcdde==1.5.0
 jitcode==1.4.0
 jitcxde-common==1.5.0
+joblib==0.14.1
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==6.1.3
@@ -115,9 +116,9 @@ navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==4.4.0
 networkx==2.2
-nltk==3.4
+nltk==3.5
 nose==1.3.7
-notebook==5.7.4
+notebook==6.0.3
 numba==0.39.0
 numexpr==2.6.8
 numpy==1.15.1
@@ -136,7 +137,7 @@ patsy==0.5.0
 pep8==1.7.1
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==5.3.0
+Pillow==7.1.2
 pkginfo==1.4.2
 pluggy==0.8.0
 ply==3.11
@@ -176,6 +177,7 @@ pyzmq==17.1.2
 QtAwesome==0.5.3
 qtconsole==4.4.3
 QtPy==1.5.2
+regex==2020.4.4
 requests==2.21.0
 rise==0.0.0
 rope==0.11.0
@@ -197,7 +199,7 @@ Sphinx==1.8.2
 sphinxcontrib-websupport==1.1.0
 spyder==3.3.2
 spyder-kernels==0.3.0
-SQLAlchemy==1.2.15
+SQLAlchemy==1.3.16
 statsmodels==0.9.0
 symengine==0.5.1
 sympy==1.3
@@ -209,14 +211,14 @@ toolz==0.9.0
 tornado==5.1.1
 tqdm==4.28.1
 traitlets==4.3.2
-Twisted==18.9.0
+Twisted==20.3.0
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.25.9
 viola==0.3.8
 voila==0.1.21
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==1.0.1
 widgetsnbextension==3.4.2
 wrapt==1.10.11
 wurlitzer==1.0.2
