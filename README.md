@@ -1,4 +1,4 @@
-# Quorum Sensing and Resource Depletion
+# Resource Sustainability and Quorum Sensing
 
 What happens when a group of individuals decide amongst themselves to exploit a renewable resource? We try to address this question in the context of swarms of agents which make decisions on the basis of quorum sensing.
 
